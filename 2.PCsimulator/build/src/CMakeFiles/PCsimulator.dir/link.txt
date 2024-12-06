@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/PCsimulator.dir/main.cpp.o CMakeFiles/PCsimulator.dir/cpu.cpp.o CMakeFiles/PCsimulator.dir/ram.cpp.o CMakeFiles/PCsimulator.dir/disk.cpp.o CMakeFiles/PCsimulator.dir/gpu.cpp.o CMakeFiles/PCsimulator.dir/kbd.cpp.o -o PCsimulator 

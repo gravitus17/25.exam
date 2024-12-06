@@ -1,0 +1,5 @@
+/home/greg/25.exam/1.operation/build/CMakeFiles/edit_cache.dir
+/home/greg/25.exam/1.operation/build/CMakeFiles/rebuild_cache.dir
+/home/greg/25.exam/1.operation/build/src/CMakeFiles/Operation.dir
+/home/greg/25.exam/1.operation/build/src/CMakeFiles/edit_cache.dir
+/home/greg/25.exam/1.operation/build/src/CMakeFiles/rebuild_cache.dir

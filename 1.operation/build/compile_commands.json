@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/greg/25.exam/1.operation/build/src",
+  "command": "/usr/bin/c++  -I/home/greg/25.exam/1.operation/src/../include -g -std=gnu++23 -o CMakeFiles/Operation.dir/main.cpp.o -c /home/greg/25.exam/1.operation/src/main.cpp",
+  "file": "/home/greg/25.exam/1.operation/src/main.cpp"
+}
+]

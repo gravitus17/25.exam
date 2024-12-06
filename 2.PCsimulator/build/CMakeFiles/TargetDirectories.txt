@@ -1,0 +1,5 @@
+/home/greg/2.PCsimulator/build/CMakeFiles/edit_cache.dir
+/home/greg/2.PCsimulator/build/CMakeFiles/rebuild_cache.dir
+/home/greg/2.PCsimulator/build/src/CMakeFiles/PCsimulator.dir
+/home/greg/2.PCsimulator/build/src/CMakeFiles/edit_cache.dir
+/home/greg/2.PCsimulator/build/src/CMakeFiles/rebuild_cache.dir
